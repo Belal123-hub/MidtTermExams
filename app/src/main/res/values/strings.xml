@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Test2</string>
+    <string name="affirmation1">RED.</string>
+    <string name="affirmation2">Orange.</string>
+    <string name="affirmation3">Yellow</string>
+    <string name="affirmation4">green</string>
+    <string name="affirmation5">blue</string>
+    <string name="affirmation6">darkblue</string>
+    <string name="affirmation7">violet</string>
+</resources>
